@@ -1,0 +1,6 @@
+C:\Users\Tute\source\repos\EncryptionLibrary\EncryptionLibrary\bin\Debug\EncryptionLibrary.dll
+C:\Users\Tute\source\repos\EncryptionLibrary\EncryptionLibrary\bin\Debug\EncryptionLibrary.pdb
+C:\Users\Tute\source\repos\EncryptionLibrary\EncryptionLibrary\obj\Debug\EncryptionLibrary.csproj.AssemblyReference.cache
+C:\Users\Tute\source\repos\EncryptionLibrary\EncryptionLibrary\obj\Debug\EncryptionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tute\source\repos\EncryptionLibrary\EncryptionLibrary\obj\Debug\EncryptionLibrary.dll
+C:\Users\Tute\source\repos\EncryptionLibrary\EncryptionLibrary\obj\Debug\EncryptionLibrary.pdb
